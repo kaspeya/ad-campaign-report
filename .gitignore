@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+output/
+respondents.csv
+views.csv
+.env
+.idea/
+.mypy_cache/
+*.zip
+.env.*
